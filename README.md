@@ -1,4 +1,4 @@
- <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
+ <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Vinayak Chatterjee.</h1>
 
 <h2 align="center">
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
@@ -39,27 +39,27 @@
 <table align="center">
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=Vinayak-2108&theme=blue-green&show_icons=true" alt="mohit khairnar" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-2108&langs_count=8&theme=blue-green" alt="mohit khairnar" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Vinayak-2108&theme=blue-green&show_icons=true" alt="Vinayak Chatterjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-2108&langs_count=8&theme=blue-green" alt="Vinayak Chatterjee" /></td>
   </tr>
 </table>
- <h2 align="center">
+ <!-- <h2 align="center">
 ━━━━━━━━━━━━| Projects |━━━━━━━━━━━━</h2>
 
 
-| Project Name      | Description | 
+<!-- | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
 | [Space Voyager](https://space-voyager.netlify.app)     | Space Exploration website.
 | [Techtronics](https://techtronics1.netlify.app)     | ECE students web dev website.
 | [Being Indian](https://being-indian.netlify.app)     | A glimpse of Incredible India.
 | [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
-| [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS.
-	
+| [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS. -->
+	 -->
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-2108&theme=dark" alt="mohit khairnar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-2108&theme=dark" alt="Vinayak Chatterjee" /></p>
   </div>
 
 <a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=Vinayak-2108&theme=nord" /></a>
