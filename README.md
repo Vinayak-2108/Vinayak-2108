@@ -3,13 +3,7 @@
 <h2 align="center">
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
   <h3 align="center">Web Development | Image Processing </h3>
-  <h2 align="center">
-<img src="https://imgur.com/mxoLMrw.png" />
-
-
-
-
-
+  
 
  <h2 align="center">
 ━━━━━━━━━━━━| Tech Skills |━━━━━━━━━━━</h2>
@@ -35,6 +29,9 @@
 <a href="https://github.com/Vinayak-2108"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 	</p>
 
+<h2 align="center"> My Current rice:
+<img src="https://imgur.com/mxoLMrw.png" />
+</h2>
 
 <table align="center">
   <tr>
