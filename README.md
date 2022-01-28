@@ -30,8 +30,8 @@
 ━━━━━━━━━━━━| Connect With Me |━━━━━━━━━━━━</h2>
 <p align="center">
  <a href="https://vinayakchatterjee28@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
- <a href="https://www.linkedin.com/in/mohit-k-74199a137"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://twitter.com/MohitKhairnar12"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ <a href="https://www.linkedin.com/in/vinayak-chatterjee-b06331202/"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://twitter.com/Vinayak_2108"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <a href="https://github.com/Vinayak-2108"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 	</p>
 
