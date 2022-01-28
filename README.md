@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
   <h3 align="center">Web Development | Image Processing </h3>
   <h2 align="center">
-<img src="https://user-images.githubusercontent.com/79041510/144733346-0abc2cb9-7b83-47ef-aca4-8899d1d7e92a.png" />
+<img src="https://imgur.com/mxoLMrw.png" />
 
 
 
@@ -55,7 +55,7 @@
 | [Being Indian](https://being-indian.netlify.app)     | A glimpse of Incredible India.
 | [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
 | [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS. -->
-	 -->
+
 
 
 <div align="center">
