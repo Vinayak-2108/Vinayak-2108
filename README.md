@@ -25,8 +25,7 @@
 <a href="https://twitter.com/Vinayak_2108"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <a href="https://github.com/Vinayak-2108"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></p>
 
- <h2 align="center">My current rice </h2>
-<img src="https://imgur.com/mxoLMrw.png" />
+ <h2 align="center">My current rice <img src="https://imgur.com/mxoLMrw.png" /></h2>
  <h2 align="center">Github Statistics </h2>
 
 <table align="center">
