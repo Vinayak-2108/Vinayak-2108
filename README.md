@@ -1,7 +1,7 @@
  <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Vinayak Chatterjee.</h1>
 
 <h2 align="center">My Interests </h2>
-  <h3 align="center">Web Development | Image Processing </h3>
+  <h3 align="center">Web Development</h3>
   
 
  <h2 align="center">Tech Skills </h2>
