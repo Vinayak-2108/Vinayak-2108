@@ -48,12 +48,12 @@
 | [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
 | [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS. -->
 
-
+<!-- 
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-2108&theme=dark" alt="Vinayak Chatterjee" /></p>
   </div>
 
-<a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=Vinayak-2108&theme=nord" /></a>
+<a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=Vinayak-2108&theme=nord" /></a> -->
 	
 
