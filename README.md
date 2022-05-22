@@ -26,7 +26,7 @@
 <a href="https://github.com/Vinayak-2108"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></p>
 
  <h2 align="center">My current rice <img src="https://imgur.com/mxoLMrw.png" /></h2>
- <h2 align="center">Github Statistics </h2>
+<!--  <h2 align="center">Github Statistics </h2>
 
 <table align="center">
   <tr>
@@ -34,7 +34,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=Vinayak-2108&theme=blue-green&show_icons=true" alt="Vinayak Chatterjee" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-2108&langs_count=8&theme=blue-green" alt="Vinayak Chatterjee" /></td>
   </tr>
-</table>
+</table> -->
  <!-- <h2 align="center">
 ━━━━━━━━━━━━| Projects |━━━━━━━━━━━━</h2>
 
