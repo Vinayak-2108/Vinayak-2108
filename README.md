@@ -1,59 +1,21 @@
- <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Vinayak Chatterjee.</h1>
-
-<h2 align="center">My Interests </h2>
-  <h3 align="center">Web Development</h3>
-  
-
- <h2 align="center">Tech Skills </h2>
-
- <p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    
-</p>
+# 💫 About Me:
+🔭 I’m currently working on full-stack projects using javascript<br>🌱 I’m currently learning React.js and Node.js
 
 
- <h2 align="center">Connect With Me </h2>
-<p align="center">
- <a href="https://vinayakchatterjee28@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
- <a href="https://www.linkedin.com/in/vinayak-chatterjee-b06331202/"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://twitter.com/Vinayak_2108"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-<a href="https://github.com/Vinayak-2108"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinayak-chatterjee/) 
 
- <h2 align="center">My current rice <img src="https://imgur.com/mxoLMrw.png" /></h2>
-<!--  <h2 align="center">Github Statistics </h2>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vinayak-2108&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-2108&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-2108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table align="center">
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=Vinayak-2108&theme=blue-green&show_icons=true" alt="Vinayak Chatterjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-2108&langs_count=8&theme=blue-green" alt="Vinayak Chatterjee" /></td>
-  </tr>
-</table> -->
- <!-- <h2 align="center">
-━━━━━━━━━━━━| Projects |━━━━━━━━━━━━</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Vinayak-2108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- | Project Name      | Description | 
-| :---:        |    :----   |  
-| [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
-| [Space Voyager](https://space-voyager.netlify.app)     | Space Exploration website.
-| [Techtronics](https://techtronics1.netlify.app)     | ECE students web dev website.
-| [Being Indian](https://being-indian.netlify.app)     | A glimpse of Incredible India.
-| [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
-| [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS. -->
-
-<!-- 
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-2108&theme=dark" alt="Vinayak Chatterjee" /></p>
-  </div>
-
-<a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=Vinayak-2108&theme=nord" /></a> -->
-	
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
